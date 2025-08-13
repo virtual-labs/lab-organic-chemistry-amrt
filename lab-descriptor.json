@@ -15,63 +15,63 @@
     "name": "Detection of Functional Groups",
     "short-name": "detection-functional-groups",
     "repo": "https://github.com/virtual-labs/exp-detection-functional-groups-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Detection of Elements: Lassaigne's Test",
     "short-name": "detection-elements-lassaignes-test",
     "repo": "https://github.com/virtual-labs/exp-detection-elements-lassaignes-test-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Separation of Compounds Using Column Chromatography",
     "short-name": "separation-compounds-column-chromatography",
     "repo": "https://github.com/virtual-labs/exp-separation-compounds-chromatography-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Purification by Fractional distillation/crystallisation",
     "short-name": "purification-fractional-distillation-crystallisation",
     "repo": "https://github.com/virtual-labs/exp-purification-distillation-crystallisation-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Purification by Steam distillation/crystallisation",
     "short-name": "purification-steam-distillation-crystallisation",
     "repo": "https://github.com/virtual-labs/exp-purification-steam-distillation-crystallisation-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Laser Flash Photometer",
     "short-name": "laser-flash-photometer",
     "repo": "https://github.com/virtual-labs/exp-laser-flash-photometer-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Organic Preparations - Allylation of Isatin",
     "short-name": "organic-preparations-allylation-isatin",
     "repo": "https://github.com/virtual-labs/exp-organic-preparations-allylation-isatin-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Estimation of Aspirin",
     "short-name": "estimation-aspirin",
     "repo": "https://github.com/virtual-labs/exp-estimation-aspirin-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Estimation of Glucose",
     "short-name": "estimation-glucose",
     "repo": "https://github.com/virtual-labs/exp-estimation-glucose-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
