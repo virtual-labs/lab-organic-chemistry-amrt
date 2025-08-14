@@ -78,7 +78,7 @@
     "name": "Calculation of maximum wavelength of Organic Compounds Using Woodward Fieser Rules",
     "short-name": "calculation-maximum-wavelength-organic-compounds-woodward-fieser-rules",
     "repo": "https://github.com/virtual-labs/exp-woodward-fieser-rules-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   }
 ],
